@@ -1,0 +1,22 @@
+# This file has been generated automatically by droidian-new-device
+
+# oneplus oneplus8
+oneplus_oneplus8:
+  type: image
+  arch: arm64
+  edition: phosh
+  variant: phone
+  apilevel: 29
+  use_internal_repository: false
+
+  packages:
+    - adaptation-oneplus-oneplus8
+    - adaptation-oneplus-oneplus8-configs
+    - linux-bootimage-4.19-81-oneplus-oneplus8
+    - linux-bootimage-oneplus-oneplus8
+    - linux-headers-4.19-81-oneplus-oneplus8
+    - linux-headers-oneplus-oneplus8
+    - linux-image-4.19-81-oneplus-oneplus8
+    - linux-image-oneplus-oneplus8
+    - droidian-camera
+    - gstreamer1.0-tools
