@@ -1,7 +1,7 @@
 # This file has been generated automatically by droidian-new-device
 
-# oneplus oneplus8
-oneplus_oneplus8:
+# oneplus instantnoodle
+oneplus_instantnoodle:
   type: image
   arch: arm64
   edition: phosh
@@ -10,13 +10,13 @@ oneplus_oneplus8:
   use_internal_repository: false
 
   packages:
-    - adaptation-oneplus-oneplus8
-    - adaptation-oneplus-oneplus8-configs
-    - linux-bootimage-4.19-81-oneplus-oneplus8
-    - linux-bootimage-oneplus-oneplus8
-    - linux-headers-4.19-81-oneplus-oneplus8
-    - linux-headers-oneplus-oneplus8
-    - linux-image-4.19-81-oneplus-oneplus8
-    - linux-image-oneplus-oneplus8
+    - adaptation-oneplus-instantnoodle
+    - adaptation-oneplus-instantnoodle-configs
+    - linux-bootimage-4.19-81-oneplus-instantnoodle
+    - linux-bootimage-oneplus-instantnoodle
+    - linux-headers-4.19-81-oneplus-instantnoodle
+    - linux-headers-oneplus-instantnoodle
+    - linux-image-4.19-81-oneplus-instantnoodle
+    - linux-image-oneplus-instantnoodle
     - droidian-camera
     - gstreamer1.0-tools

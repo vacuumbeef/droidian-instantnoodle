@@ -1,0 +1,18 @@
+.
+├── android-image-flashing-template
+├── android-recovery-flashing-template
+├── apt
+├── community_devices.yml
+├── devices.yml
+├── generate_device_recipe.py
+├── pre-overlay
+│   └── etc
+│       └── apt
+│           ├── 99-insecure-https
+│           └── sources.list.d
+│               └── op8.list
+├── README.md
+├── rootfs-templates
+└── tree.txt
+
+9 directories, 7 files
